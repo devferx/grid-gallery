@@ -122,6 +122,7 @@ html {
 }
 
 .icon {
+  display: block;
   width: 24px;
   height: 24px;
   background-size: cover;
@@ -130,5 +131,5 @@ html {
 }
 
 .map {
-  background: url("/assets/icons/map.svg");
+  background: url("../icons/map.svg");
 }
