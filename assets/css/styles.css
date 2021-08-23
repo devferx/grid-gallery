@@ -86,8 +86,12 @@ html {
   opacity: 0;
 }
 
+.card__small {
+  grid-row: span 2;
+}
+
 .card__large {
-  grid-row: span 3;
+  grid-row: span 4;
 }
 
 .btn {
